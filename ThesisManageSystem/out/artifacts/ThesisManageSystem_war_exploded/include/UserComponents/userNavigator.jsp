@@ -50,13 +50,13 @@
         <ul class="logout-mode">
             <li><a href="#">
                 <i class="uil uil-signout"></i>
-                <span class="link-name">Logout</span>
+                <span class="link-name">登出</span>
             </a></li>
 
             <li class="mode">
                 <a href="#">
                     <i class="uil uil-moon"></i>
-                    <span class="link-name">Dark Mode</span>
+                    <span class="link-name">夜间模式</span>
                 </a>
 
                 <div class="mode-toggle">
@@ -104,5 +104,5 @@
                 </div>
             </div>
         </div>
-
+    </div>
 
